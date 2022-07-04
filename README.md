@@ -18,7 +18,7 @@ July 2022 <br>
 <br>
 
 ## Code
-The R file <a href="https://github.com/cjabradshaw/SahulLGMhuman/blob/main/scripts/AusHumSpreadSingleScenAvgLTNprojGithub.R"><code>AusHumSpreadSingleScenAvgLTNprojGithub.R</code></a> in the <a href="https://github.com/cjabradshaw/SahulLGMhuman/tree/main/code"><code>scripts</code></a> directory produces average scenario outputs over a set number of iterations.
+The R file <a href="https://github.com/cjabradshaw/SahulLGMhuman/blob/main/scripts/AusHumSpreadSingleScenAvgLTNprojGithub.R"><code>AusHumSpreadSingleScenAvgLTNprojGithub.R</code></a> in the <a href="https://github.com/cjabradshaw/SahulLGMhuman/tree/main/scripts"><code>scripts</code></a> directory produces average scenario outputs over a set number of iterations.
 
 The file <a href="https://github.com/cjabradshaw/SahulLGM/blob/main/scripts/matrixOperators.r"><code>matrixOperators.R</code></a> includes necessary functions and is sourced directly within the R code file; the file should be placed in a folder called 'scripts'
 
