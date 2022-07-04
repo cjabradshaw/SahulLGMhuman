@@ -18,9 +18,9 @@ July 2022 <br>
 <br>
 
 ## Code
-The R file <a href="https://github.com/cjabradshaw/SuperhighwaysSpreadModel/blob/main/code/SHSpreadPathGithub.R"><code>SHSpreadPathGithub.R</code></a> in the <a href="https://github.com/cjabradshaw/SuperhighwaysSpreadModel/tree/main/code"><code>Code</code></a> directory produces average scenario outputs over a set number of iterations. The user can choose the particulars of the scenario (e.g., underlying <em>K</em>~NPP relationship, entry time(s), entry point(s), spatial clustering, stochastic variances, minimum viable population thresholds, etc.)
+The R file <a href="https://github.com/cjabradshaw/SahulLGMhuman/blob/main/scripts/AusHumSpreadSingleScenAvgLTNprojGithub.R"><code>AusHumSpreadSingleScenAvgLTNprojGithub.R</code></a> in the <a href="https://github.com/cjabradshaw/SahulLGMhuman/tree/main/code"><code>scripts</code></a> directory produces average scenario outputs over a set number of iterations.
 
-The file <a href="https://github.com/cjabradshaw/SuperhighwaysSpreadModel/blob/main/code/matrixOperators.r"><code>matrixOperators.R</code></a> includes necessary functions and is sourced directly within the R code file.
+The file <a href="https://github.com/cjabradshaw/SahulLGM/blob/main/scripts/matrixOperators.r"><code>matrixOperators.R</code></a> includes necessary functions and is sourced directly within the R code file; the file should be placed in a folder called 'scripts'
 
 ## Data
 Decompress the zipped files in the <a href="https://github.com/cjabradshaw/SahulLGMhuman/tree/main/data"><code>data</code></a> directory and place their files (as well as the unzipped files) into a sub-directory called 'data'.
