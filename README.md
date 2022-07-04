@@ -23,4 +23,4 @@ The R file <a href="https://github.com/cjabradshaw/SahulLGMhuman/blob/main/scrip
 The file <a href="https://github.com/cjabradshaw/SahulLGM/blob/main/scripts/matrixOperators.r"><code>matrixOperators.R</code></a> includes necessary functions and is sourced directly within the R code file; the file should be placed in a folder called 'scripts'
 
 ## Data
-Decompress the zipped files in the <a href="https://github.com/cjabradshaw/SahulLGMhuman/tree/main/data"><code>data</code></a> directory and place their files (as well as the unzipped files) into a sub-directory called 'data'.
+Decompress the zipped files in the <a href="https://github.com/cjabradshaw/SahulLGMhuman/tree/main/data"><code>data</code></a> directory and place them (as well as the unzipped .csv files) into a sub-directory called 'data'.
