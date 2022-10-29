@@ -1,5 +1,6 @@
 # Stochastic population projections in Sahul refine the human-refugia hypothesis for early Last Glacial Maximum
 <img align="right" src="www/Fig2.jpg" alt="Sahul predictions" width="400" style="margin-top: 20px">
+<a href="https://doi.org/10.5281/zenodo.7263279"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7263279.svg" alt="DOI"></a>
 
 Directionally supervised cellular automaton to predict changes in human populations in Sahul through the Late Pleistocene into the Holocene
 
