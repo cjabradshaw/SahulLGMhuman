@@ -23,5 +23,7 @@ The R file <a href="https://github.com/cjabradshaw/SahulLGMhuman/blob/main/scrip
 
 The file <a href="https://github.com/cjabradshaw/SahulLGM/blob/main/scripts/matrixOperators.r"><code>matrixOperators.R</code></a> includes necessary functions and is sourced directly within the R code file; the file should be placed in a folder called 'scripts'
 
+All code ran on the Flinders University <em>Deepthought</em> High-Performance Computing facility: Flinders University (2021). DeepThought (HPC). doi:<a href="https://doi.org/10.25957/FLINDERS.HPC.DEEPTHOUGHT">10.25957/FLINDERS.HPC.DEEPTHOUGHT</a>
+
 ## Data
 Decompress the zipped files in the <a href="https://github.com/cjabradshaw/SahulLGMhuman/tree/main/data"><code>data</code></a> directory and place them (as well as the unzipped .csv files) into a sub-directory called 'data'.
