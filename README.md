@@ -27,3 +27,6 @@ All code ran on the Flinders University <em>Deepthought</em> High-Performance Co
 
 ## Data
 Decompress the zipped files in the <a href="https://github.com/cjabradshaw/SahulLGMhuman/tree/main/data"><code>data</code></a> directory and place them (as well as the unzipped .csv files) into a sub-directory called 'data'.
+
+<a href="https://www.flinders.edu.au"><img align="bottom-left" src="www/Flinders_University_Logo_Horizontal_RGB_Master.png" alt="Flinders University logo" width="200" style="margin-top: 20px"></a>
+<a href="https://globalecologyflinders.com"><img align="bottom-left" src="www/GEL Logo Kaurna New Transp.png" alt="GEL logo" width="200" style="margin-top: 20px"></a> <a href="https://EpicAustralia.org.au"><img align="bottom-left" src="www/CabahFCL.jpg" alt="CABAH logo" width="200" style="margin-top: 20px"></a>
